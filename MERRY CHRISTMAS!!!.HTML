@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MERRY CHRISTMAS</title>
+<script type="text/javascript">
+        alert("MERRY CHRISTMAS!")
+        alert("WARNING SENSITIVE CONTENT!")
+        alert("WHAT IF....")
+        alert("TAYO TALAGA SA ISA'T ISA?")
+        alert("ANG GANDA MO PALAGI")
+        alert("WHAT IF.....")
+        alert("CRUSH BACK MO NA AKO? HMMM")
+        alert("I WISH YOU THE BEST THIS CHRISTMAS YIEE")
+        alert("KAPAG LAGI KITANG KAUSAP NAKA SMILE DIN AKO PALAGI")
+        alert("NAKAKA TANGGAL KA NG ANGAS PAR")
+        alert("WHAT IF.....")
+		alert("BAGAY TAYO? HAHAHAHA")
+        confirm("DAPAT MAG YES KA AKIN KA LANG HA YIEE")
+        confirm("CAN I TAKE A PICTURE OF YOU?")
+        alert("PARA MAIPAKITA KO KAY SANTA YUNG PINAKAGUSTO KO NGAYONG PASKO")
+        alert("YIEE DAPAT KINIKILIG YAN")
+        alert("MAY SASABIHIN KO SAYO HA SECRET LANG NATIN")
+		alert("GUSTO MO MALAMAN?")
+        alert("PAPUNTA PALANG TAYO SA EXCITING PART EH ")
+        confirm("READY KA NA BA?")
+        alert("5")
+        alert("4")
+        alert("3")
+        alert("2")
+        alert("1")
+        alert("SURPRISEEEE!")
+	</script>
+
+
+</head>
+<body style="background-color: white;">
+    
+    <h1
+    style="color: black;"> GUSTONG GUSTO KITA!!</h1>
+   
+	<br>
+    
+<img 
+        src="https://gifdb.com/images/high/goma-cat-flying-kiss-btga4p2kunsm66k4.gif" width="250" height="250">
+    
+	<br> 
+
+    <h2 style="color: black;"> WALA NG WHAT IF WHAT IF TAYO NA AGAD&nbsp; </h2>
+    <br>
+    
+<img
+        src="https://i.pinimg.com/originals/8a/02/e2/8a02e2fe53088466a6f9e53faf8590ce.gif" width="250" height="250">
+    
+
+
+
+
+</body>
+</html>
